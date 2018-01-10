@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/APP.Member.Entity/obj/Debug
+/APP.Member.Handler/obj/Debug
+/packages
+/APP.MemberWeb/obj/Debug
+/APP.MemberWeb/bin
+/App.Api/obj/Debug
+/App.Api/bin
